@@ -72,6 +72,7 @@ Focus: mastering input validation, branching logic, and working with strings.
 bash
 
 python password_generator.py
+
 Следуйте интерактивным подсказкам.
 
 ⚙️ Требования
